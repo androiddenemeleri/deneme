@@ -1,8 +1,0 @@
-{
-    "org.apache.cordova.camera": {
-        "source": {
-            "type": "local",
-            "path": "C:\\Users\\CODER\\documents\\visual studio 2013\\Projects\\IlkTest\\IlkTest\\plugins\\org.apache.cordova.camera"
-        }
-    }
-}
